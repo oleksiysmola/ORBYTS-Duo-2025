@@ -1,0 +1,380 @@
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000303081 au =     0.000000770355 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000302757 au =     0.000000769532 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000303754 au =    -0.000000772065 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000305668 au =     0.000000776931 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000308320 au =    -0.000000783671 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000310648 au =     0.000000789588 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000312705 au =    -0.000000794816 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000314763 au =     0.000000800047 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000316817 au =    -0.000000805268 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000311118 au =    -0.000000790783 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000084241 au =    -0.000000214120 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000139576 au =    -0.000000354767 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000170564 au =    -0.000000433531 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000207199 au =    -0.000000526647 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000220528 au =    -0.000000560525 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000256469 au =     0.000000651879 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000281457 au =     0.000000715393 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000474048 au =    -0.000001204909 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000479590 au =    -0.000001218996 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000475851 au =    -0.000001209492 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.076891822294 au =    -0.195439518132 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.101752362745 au =    -0.258628709147 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.129996991799 au =     0.330419395430 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.162062751030 au =    -0.411922425867 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.198362468699 au =    -0.504187105230 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.239060903752 au =    -0.607632208989 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.283836688181 au =    -0.721440901148 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.331527934178 au =     0.842659957463 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.379805249501 au =    -0.965368653419 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.425097214733 au =    -1.080489346312 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.463255127882 au =    -1.177477087483 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.490826077366 au =     1.247555451097 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.506345342046 au =    -1.287001487363 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.510677130758 au =    -1.298011796044 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.506260651606 au =     1.286786225736 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.495971488981 au =    -1.260633782922 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.467078776452 au =     1.187195832750 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.436337504738 au =     1.109059313790 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.408363924463 au =     1.037957564783 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.384201411127 au =    -0.976542581728 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.363616164249 au =    -0.924220103077 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.346032288024 au =    -0.879526347697 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.330740532199 au =    -0.840658581259 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.315575796005 au =     0.802113666522 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.304178054922 au =     0.773143498320 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.294270044630 au =    -0.747959848106 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.285449687326 au =     0.725540736034 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.277505038039 au =     0.705347451730 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.270282152713 au =    -0.686988708426 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000248899 au =    -0.000000632637 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000152273 au =     0.000000387040 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000058646 au =    -0.000000149063 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000356336 au =    -0.000000905716 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000292995 au =    -0.000000744718 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000236600 au =    -0.000000601378 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000188598 au =    -0.000000479367 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000127075 au =    -0.000000322993 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000196602 au =     0.000000499713 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000138722 au =    -0.000000352597 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000296690 au =     0.000000754110 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000309938 au =     0.000000787785 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000320873 au =    -0.000000815577 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000331160 au =     0.000000841725 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000335546 au =    -0.000000852874 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000341055 au =    -0.000000866875 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000318020 au =     0.000000808327 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000318268 au =    -0.000000808955 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000317421 au =     0.000000806804 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000315639 au =    -0.000000802273 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000313189 au =    -0.000000796047 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000311121 au =     0.000000790792 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001248160 au =    -0.000003172507 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001228354 au =     0.000003122166 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001197636 au =    -0.000003044086 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001162436 au =     0.000002954618 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001117671 au =    -0.000002840837 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001075361 au =     0.000002733296 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001035710 au =     0.000002632512 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000998125 au =     0.000002536981 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000963838 au =     0.000002449831 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000941025 au =    -0.000002391846 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000929494 au =    -0.000002362538 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000933429 au =     0.000002372539 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000831177 au =     0.000002112641 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000810405 au =    -0.000002059845 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000786237 au =    -0.000001998414 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000726113 au =     0.000001845595 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000684736 au =    -0.000001740426 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000637960 au =     0.000001621533 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000032932 au =     0.000000083705 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000122586 au =    -0.000000311582 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000079904 au =    -0.000000203095 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000077564 au =     0.000000197148 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000100255 au =     0.000000254824 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000132851 au =     0.000000337674 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000262001 au =    -0.000000665939 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000242523 au =    -0.000000616431 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000213762 au =    -0.000000543329 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000177832 au =    -0.000000452004 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000151237 au =    -0.000000384406 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000139326 au =     0.000000354131 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000000097179 au =    -0.000000247003 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000328996 au =     0.000000836226 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000904537 au =     0.000002299104 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000000989609 au =     0.000002515335 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001052806 au =     0.000002675965 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001473077 au =     0.000003744189 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002200234 au =     0.000005592436 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001614751 au =    -0.000004104289 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001617845 au =    -0.000004112151 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001694129 au =    -0.000004306046 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001747136 au =    -0.000004440778 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001823791 au =    -0.000004635613 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001785832 au =     0.000004539132 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001828561 au =    -0.000004647739 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001872415 au =    -0.000004759203 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001881257 au =    -0.000004781677 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001916813 au =    -0.000004872053 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001961282 au =     0.000004985082 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002005280 au =     0.000005096912 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002050602 au =     0.000005212112 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002089806 au =    -0.000005311757 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002124447 au =     0.000005399805 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002158492 au =     0.000005486340 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002188412 au =     0.000005562389 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002208364 au =     0.000005613101 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002228113 au =     0.000005663299 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002249471 au =    -0.000005717585 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002260544 au =     0.000005745730 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002265640 au =    -0.000005758684 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002268042 au =    -0.000005764788 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002265413 au =     0.000005758106 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002258144 au =    -0.000005739630 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002253125 au =     0.000005726874 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002239936 au =     0.000005693350 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002225547 au =     0.000005656775 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002194628 au =     0.000005578188 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002162281 au =    -0.000005495971 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002123130 au =    -0.000005396459 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002074438 au =     0.000005272697 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002216364 au =     0.000005633436 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002316855 au =    -0.000005888858 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002388951 au =     0.000006072107 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002431173 au =    -0.000006179426 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002438337 au =     0.000006197636 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002407235 au =    -0.000006118582 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002368505 au =     0.000006020140 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002306605 au =     0.000005862806 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000002223539 au =     0.000005651672 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002145949 au =    -0.000005454459 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002028703 au =    -0.000005156448 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001892357 au =    -0.000004809890 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001748695 au =     0.000004444740 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001599308 au =    -0.000004065036 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001464875 au =    -0.000003723340 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001320149 au =    -0.000003355483 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001186559 au =     0.000003015933 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001109699 au =     0.000002820574 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001037614 au =     0.000002637351 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001008596 au =    -0.000002563596 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001006867 au =     0.000002559200 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001050234 au =    -0.000002669430 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001133590 au =    -0.000002881298 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001244913 au =     0.000003164254 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001365019 au =    -0.000003469533 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001478882 au =     0.000003758942 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001583322 au =     0.000004024402 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001670888 au =     0.000004246974 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001743747 au =    -0.000004432162 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001813004 au =     0.000004608196 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001853665 au =    -0.000004711547 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001880535 au =     0.000004779843 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001895761 au =     0.000004818545 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001888821 au =     0.000004800905 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001879988 au =    -0.000004778453 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001862041 au =     0.000004732836 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001846751 au =    -0.000004693973 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001817587 au =    -0.000004619846 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001775340 au =    -0.000004512465 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001736080 au =    -0.000004412675 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002080219 au =    -0.000005287389 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001998753 au =    -0.000005080323 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001921927 au =    -0.000004885052 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001852342 au =     0.000004708185 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000001792830 au =    -0.000004556919 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001745389 au =     0.000004436336 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001672259 au =     0.000004250459 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>     0.000001645310 au =     0.000004181961 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000003499024 au =    -0.000008893631 Debye
+
+ !MRCI trans          <3.1|DMZ|2.1>    -0.000002886205 au =    -0.000007336001 Debye
+

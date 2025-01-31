@@ -1,0 +1,382 @@
+ !MRCI trans           <2.3|LX|1.1>     0.520569391593i
+
+ !MRCI trans           <2.3|LX|1.1>     0.485150623676i
+
+ !MRCI trans           <2.3|LX|1.1>     0.453357662617i
+
+ !MRCI trans           <2.3|LX|1.1>     0.424972443712i
+
+ !MRCI trans           <2.3|LX|1.1>     0.399686321476i
+
+ !MRCI trans           <2.3|LX|1.1>     0.377168528413i
+
+ !MRCI trans           <2.3|LX|1.1>     0.357090059230i
+
+ !MRCI trans           <2.3|LX|1.1>     0.339146763725i
+
+ !MRCI trans           <2.3|LX|1.1>     0.323084527402i
+
+ !MRCI trans           <2.3|LX|1.1>     0.308619857334i
+
+ !MRCI trans           <2.3|LX|1.1>     0.295566208244i
+
+ !MRCI trans           <2.3|LX|1.1>     0.283744033610i
+
+ !MRCI trans           <2.3|LX|1.1>     0.272997750909i
+
+ !MRCI trans           <2.3|LX|1.1>     0.263194395900i
+
+ !MRCI trans           <2.3|LX|1.1>     0.254220127633i
+
+ !MRCI trans           <2.3|LX|1.1>     0.245977483288i
+
+ !MRCI trans           <2.3|LX|1.1>     0.238382628009i
+
+ !MRCI trans           <2.3|LX|1.1>     0.234293952592i
+
+ !MRCI trans           <2.3|LX|1.1>     0.227629667839i
+
+ !MRCI trans           <2.3|LX|1.1>     0.221431688986i
+
+ !MRCI trans           <2.3|LX|1.1>     0.215661441259i
+
+ !MRCI trans           <2.3|LX|1.1>     0.210290541672i
+
+ !MRCI trans           <2.3|LX|1.1>     0.205301789374i
+
+ !MRCI trans           <2.3|LX|1.1>     0.200694715096i
+
+ !MRCI trans           <2.3|LX|1.1>     0.196477697623i
+
+ !MRCI trans           <2.3|LX|1.1>     0.192628156086i
+
+ !MRCI trans           <2.3|LX|1.1>     0.188954069888i
+
+ !MRCI trans           <2.3|LX|1.1>     0.185181202107i
+
+ !MRCI trans           <2.3|LX|1.1>     0.181372871035i
+
+ !MRCI trans           <2.3|LX|1.1>     0.177691458902i
+
+ !MRCI trans           <2.3|LX|1.1>     0.174193598926i
+
+ !MRCI trans           <2.3|LX|1.1>     0.170876833882i
+
+ !MRCI trans           <2.3|LX|1.1>     0.167731888031i
+
+ !MRCI trans           <2.3|LX|1.1>     0.164738555336i
+
+ !MRCI trans           <2.3|LX|1.1>     0.161880899667i
+
+ !MRCI trans           <2.3|LX|1.1>     0.159145008600i
+
+ !MRCI trans           <2.3|LX|1.1>     0.156518747682i
+
+ !MRCI trans           <2.3|LX|1.1>     0.151554209307i
+
+ !MRCI trans           <2.3|LX|1.1>     0.146916771903i
+
+ !MRCI trans           <2.3|LX|1.1>     0.142549309060i
+
+ !MRCI trans           <2.3|LX|1.1>     0.138403178380i
+
+ !MRCI trans           <2.3|LX|1.1>     0.134437399156i
+
+ !MRCI trans           <2.3|LX|1.1>     0.130611512371i
+
+ !MRCI trans           <2.3|LX|1.1>     0.126894630586i
+
+ !MRCI trans           <2.3|LX|1.1>     0.123228934616i
+
+ !MRCI trans           <2.3|LX|1.1>     0.119576408832i
+
+ !MRCI trans           <2.3|LX|1.1>     0.115880168934i
+
+ !MRCI trans           <2.3|LX|1.1>     0.112065336567i
+
+ !MRCI trans           <2.3|LX|1.1>     0.108025669335i
+
+ !MRCI trans           <2.3|LX|1.1>     0.103599476306i
+
+ !MRCI trans           <2.3|LX|1.1>     0.098520603522i
+
+ !MRCI trans           <2.3|LX|1.1>     0.092311136466i
+
+ !MRCI trans           <2.3|LX|1.1>     0.084014738526i
+
+ !MRCI trans           <2.3|LX|1.1>     0.071407182547i
+
+ !MRCI trans           <2.3|LX|1.1>     0.048069823131i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.012796303154i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.221413582567i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.300816729652i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.239746017846i
+
+ !MRCI trans           <2.3|LX|1.1>     0.141125440514i
+
+ !MRCI trans           <2.3|LX|1.1>     0.026165997803i
+
+ !MRCI trans           <2.3|LX|1.1>     0.086366284965i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.182534999413i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.257909043474i
+
+ !MRCI trans           <2.3|LX|1.1>     0.314501715299i
+
+ !MRCI trans           <2.3|LX|1.1>     0.356287846553i
+
+ !MRCI trans           <2.3|LX|1.1>     0.386948541711i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.409291441771i
+
+ !MRCI trans           <2.3|LX|1.1>     0.425305005057i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.436348637702i
+
+ !MRCI trans           <2.3|LX|1.1>     0.443322804834i
+
+ !MRCI trans           <2.3|LX|1.1>     0.446786504768i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.447029889601i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.444103266241i
+
+ !MRCI trans           <2.3|LX|1.1>     0.437812238132i
+
+ !MRCI trans           <2.3|LX|1.1>     0.427666463504i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.412770064455i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.391621041269i
+
+ !MRCI trans           <2.3|LX|1.1>     0.361778154112i
+
+ !MRCI trans           <2.3|LX|1.1>     0.319402142834i
+
+ !MRCI trans           <2.3|LX|1.1>     0.259036989287i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.175340640142i
+
+ !MRCI trans           <2.3|LX|1.1>     0.070273238925i
+
+ !MRCI trans           <2.3|LX|1.1>     0.038473189087i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.231968360976i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.258121654462i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.274963872351i
+
+ !MRCI trans           <2.3|LX|1.1>     0.286028098351i
+
+ !MRCI trans           <2.3|LX|1.1>     0.293529886082i
+
+ !MRCI trans           <2.3|LX|1.1>     0.298665616910i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.301884969914i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.303240540985i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.302818956662i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.300873478180i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.297719264309i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.293647541818i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.288868094404i
+
+ !MRCI trans           <2.3|LX|1.1>     0.283557078402i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.277840723996i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.271813048840i
+
+ !MRCI trans           <2.3|LX|1.1>     0.267447386597i
+
+ !MRCI trans           <2.3|LX|1.1>     0.265545593551i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.259097825402i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.252586732224i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.249275425249i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.247657975313i
+
+ !MRCI trans           <2.3|LX|1.1>     0.237985147406i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.228345380278i
+
+ !MRCI trans           <2.3|LX|1.1>     0.218738232176i
+
+ !MRCI trans           <2.3|LX|1.1>     0.209163337380i
+
+ !MRCI trans           <2.3|LX|1.1>     0.199612301399i
+
+ !MRCI trans           <2.3|LX|1.1>     0.190079075180i
+
+ !MRCI trans           <2.3|LX|1.1>     0.180597059954i
+
+ !MRCI trans           <2.3|LX|1.1>     0.171951660432i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.163269320708i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.154539777333i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.145751583397i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.143985939976i
+
+ !MRCI trans           <2.3|LX|1.1>     0.136893226404i
+
+ !MRCI trans           <2.3|LX|1.1>     0.127951764571i
+
+ !MRCI trans           <2.3|LX|1.1>     0.118913817638i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.109765255536i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.100492623782i
+
+ !MRCI trans           <2.3|LX|1.1>     0.091077570507i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.081504692354i
+
+ !MRCI trans           <2.3|LX|1.1>     0.071756362608i
+
+ !MRCI trans           <2.3|LX|1.1>     0.061813816296i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.051657012529i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.041264572275i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.030613233139i
+
+ !MRCI trans           <2.3|LX|1.1>     0.019677948648i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.008432000826i
+
+ !MRCI trans           <2.3|LX|1.1>     0.003154787304i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.015114461706i
+
+ !MRCI trans           <2.3|LX|1.1>     0.027482532017i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.040297710061i
+
+ !MRCI trans           <2.3|LX|1.1>     0.053598725588i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.081872758677i
+
+ !MRCI trans           <2.3|LX|1.1>     0.112745409075i
+
+ !MRCI trans           <2.3|LX|1.1>     0.146758460284i
+
+ !MRCI trans           <2.3|LX|1.1>     0.184552386533i
+
+ !MRCI trans           <2.3|LX|1.1>     0.227099952926i
+
+ !MRCI trans           <2.3|LX|1.1>     0.274689874711i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.327834813556i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.385734656407i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.445202442456i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.500310609705i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.544971094853i
+
+ !MRCI trans           <2.3|LX|1.1>     0.577422135543i
+
+ !MRCI trans           <2.3|LX|1.1>     0.600571171793i
+
+ !MRCI trans           <2.3|LX|1.1>     0.618530058895i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.634281866531i
+
+ !MRCI trans           <2.3|LX|1.1>     0.649503243815i
+
+ !MRCI trans           <2.3|LX|1.1>     0.665070020995i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.681445084313i
+
+ !MRCI trans           <2.3|LX|1.1>     0.698913623243i
+
+ !MRCI trans           <2.3|LX|1.1>     0.717356031064i
+
+ !MRCI trans           <2.3|LX|1.1>     0.736730480125i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.756842159862i
+
+ !MRCI trans           <2.3|LX|1.1>     0.777443075048i
+
+ !MRCI trans           <2.3|LX|1.1>     0.798245287660i
+
+ !MRCI trans           <2.3|LX|1.1>     0.818930256669i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.839110114683i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.858523894843i
+
+ !MRCI trans           <2.3|LX|1.1>     0.876791830240i
+
+ !MRCI trans           <2.3|LX|1.1>     0.893618940273i
+
+ !MRCI trans           <2.3|LX|1.1>     0.908778462741i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.922134214641i
+
+ !MRCI trans           <2.3|LX|1.1>     0.933651341415i
+
+ !MRCI trans           <2.3|LX|1.1>     0.943413541678i
+
+ !MRCI trans           <2.3|LX|1.1>     0.951554568387i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.958323389371i
+
+ !MRCI trans           <2.3|LX|1.1>     0.964001565363i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.977377884585i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.979006809527i
+
+ !MRCI trans           <2.3|LX|1.1>     0.981106270292i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.983781152839i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.987090628428i
+
+ !MRCI trans           <2.3|LX|1.1>    -0.991042486577i
+
+ !MRCI trans           <2.3|LX|1.1>     0.995640410650i
+
+ !MRCI trans           <2.3|LX|1.1>    -1.000865137753i
+
+ !MRCI trans           <2.3|LX|1.1>     1.006698505971i
+
+ !MRCI trans           <2.3|LX|1.1>    -1.013103144234i
+
+ !MRCI trans           <2.3|LX|1.1>    -1.020062991729i
+
+ !MRCI trans           <2.3|LX|1.1>    -1.027540101247i
+
+ !MRCI trans           <2.3|LX|1.1>    -1.035503577371i
+
+ !MRCI trans           <2.3|LX|1.1>    -1.043922131778i
+
+ !MRCI trans           <2.3|LX|1.1>     1.066748188847i
+
+ !MRCI trans           <2.3|LX|1.1>     1.091752638485i
+
+ !MRCI trans           <2.3|LX|1.1>     1.118535327689i
+
+ !MRCI trans           <2.3|LX|1.1>     1.146510388453i
+

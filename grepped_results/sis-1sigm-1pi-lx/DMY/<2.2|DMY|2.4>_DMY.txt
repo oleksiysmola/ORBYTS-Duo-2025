@@ -1,0 +1,382 @@
+ !MRCI trans          <2.2|DMY|2.4>     0.005702065195 au =     0.014493204099 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.014641843225 au =     0.037215853377 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.019522538677 au =     0.049621343829 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.022626233893 au =     0.057510150199 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.024963264432 au =     0.063450289328 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.027120816212 au =     0.068934238956 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.028854921879 au =     0.073341895920 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.030435808608 au =     0.077360109188 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.031833166217 au =     0.080911837963 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.033145343112 au =     0.084247058957 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.034374828732 au =     0.087372099696 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.035596051950 au =     0.090476139505 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.036623922653 au =     0.093088726237 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.037469639379 au =     0.095238323744 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.038202893349 au =     0.097102069436 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.038797801802 au =     0.098614175899 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.039326448911 au =     0.099957862822 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.039876978469 au =     0.101357169385 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.040447965064 au =     0.102808472550 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.041115330999 au =     0.104504747561 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.041966273263 au =     0.106667627059 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.043090175466 au =     0.109524301520 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.099128479986 au =     0.251959464398 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.105681680622 au =    -0.268616039003 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.139909058599 au =    -0.355613356263 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.148754292410 au =    -0.378095698105 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.157125164702 au =     0.399372333232 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.165489981146 au =     0.420633575928 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.173925387354 au =    -0.442074239905 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.182467592784 au =     0.463786360431 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.191075140618 au =    -0.485664564780 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.199706362178 au =    -0.507602941740 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.208310131283 au =    -0.529471541518 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.216829865258 au =     0.551126545302 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.225207076099 au =     0.572419291412 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.233384371833 au =    -0.593203904006 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.241307632041 au =    -0.613342822696 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.256207208957 au =    -0.651213769774 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.269615620646 au =    -0.685294552894 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.281382357698 au =     0.715202615297 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.291490001754 au =    -0.740893683929 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.300023100463 au =    -0.762582657478 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.307132308151 au =     0.780652461046 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.312998679342 au =    -0.795563289331 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.317808952402 au =    -0.807789783917 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.321754565835 au =     0.817818532945 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.324961145267 au =     0.825968844907 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.327580382956 au =    -0.832626283066 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.329725573532 au =     0.838078813648 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.331490400259 au =    -0.842564555756 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.332950871254 au =     0.846276702757 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.334168280354 au =    -0.849371048042 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.335191639031 au =    -0.851972166352 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.336059808418 au =     0.854178832829 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.336803483687 au =    -0.856069066821 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.337446635525 au =     0.857703795738 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.338007735342 au =     0.859129969218 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.338500762997 au =    -0.860383120522 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.338935969081 au =    -0.861489304051 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.269492756894 au =    -0.684982264386 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.269043657389 au =    -0.683840767303 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.268530706483 au =    -0.682536976146 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.267951465460 au =    -0.681064692320 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.267301822757 au =    -0.679413465271 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.266582014875 au =    -0.677583896124 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.265774394939 au =    -0.675531131001 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.264874389083 au =    -0.673243544291 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.263871279618 au =    -0.670693894347 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.262752431678 au =    -0.667850066541 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.261503027812 au =    -0.664674398671 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.260105622461 au =    -0.661122548549 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.258685422172 au =    -0.657512759473 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.256923795277 au =    -0.653035150525 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.254941713559 au =    -0.647997201309 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.252705325701 au =    -0.642312870357 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.250173838140 au =    -0.635878470779 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.247297523866 au =    -0.628567609115 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.244014968740 au =    -0.620224186201 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.240249174188 au =    -0.610652491179 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.235901856177 au =    -0.599602710957 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.230845276009 au =    -0.586750166149 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.224909248222 au =    -0.571662288458 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.217861499340 au =    -0.553748697592 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.209376643618 au =    -0.532182345486 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.169413202307 au =    -0.430605409477 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.148141900895 au =    -0.376539154131 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.121744753259 au =    -0.309444297225 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.092610286121 au =    -0.235391868129 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.065177434811 au =    -0.165664515062 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.041876946859 au =    -0.106440581988 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.022706458379 au =    -0.057714060503 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.006898962822 au =    -0.017535414422 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.006291412181 au =     0.015991174723 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.017439390160 au =     0.044326508434 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.026967739209 au =     0.068545156025 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.035186580034 au =     0.089435365705 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.042327024853 au =     0.107584566140 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.048564380992 au =     0.123438344110 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.054034003792 au =     0.137340738570 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.058842084081 au =     0.149561659689 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.061860179043 au =     0.157232891913 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.063073323446 au =     0.160316397422 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.066796156693 au =     0.169778895697 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.070066595933 au =     0.178091523101 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.072931011670 au =     0.185372141700 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.075428309159 au =     0.191719638783 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.077591463088 au =     0.197217827654 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.079448610445 au =     0.201938225398 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.081024007182 au =     0.205942484499 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.082360959556 au =     0.209340678481 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.083434567967 au =     0.212069518872 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.084282995054 au =     0.214226005428 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.084920737462 au =     0.215846984944 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.085361898560 au =     0.216968304611 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.085618419150 au =     0.217620314914 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.085701968258 au =     0.217832675567 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.085623131858 au =     0.217632293424 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.085588787150 au =     0.217544997883 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.085392095019 au =     0.217045056353 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.085018500159 au =     0.216095472934 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.084500435770 au =     0.214778684601 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.083869049705 au =     0.213173861297 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.083122593707 au =     0.211276559398 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.082270181797 au =     0.209109944433 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.081320436894 au =     0.206695933674 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.080282657695 au =     0.204058162054 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.079166062858 au =     0.201220061067 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.077985896202 au =     0.198220376631 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.076739945778 au =     0.195053486534 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.075443687190 au =     0.191758725840 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.074106564860 au =     0.188360099874 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.072737911838 au =     0.184881330881 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.071347317627 au =     0.181346792951 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.069943596758 au =     0.177778890382 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.068535377121 au =     0.174199553085 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.067130785367 au =     0.170629436951 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.065737419649 au =     0.167087854550 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.063011560063 au =     0.160159410561 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.060405451858 au =     0.153535344222 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.057955745178 au =     0.147308810908 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.055688624323 au =     0.141546364470 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.053621059775 au =     0.136291139572 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.051762693896 au =     0.131567644653 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.050117938973 au =     0.127387094628 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.048688405547 au =     0.123753583085 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.046006222407 au =     0.116936153548 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.045109931250 au =     0.114658008662 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.044502371229 au =     0.113113745120 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.044123568974 au =     0.112150925823 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.043961885704 au =     0.111739967944 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.044006065923 au =     0.111852262859 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.044245049099 au =     0.112459697505 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.044667002400 au =     0.113532195819 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.045259012310 au =     0.115036934919 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.046006780741 au =     0.116937572691 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.046894380304 au =     0.119193625749 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.047904756035 au =     0.121761744700 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.049018317421 au =     0.124592135426 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.050213913675 au =     0.127631037988 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.051468717923 au =     0.130820432261 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.052758677575 au =     0.134099182657 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.054058952766 au =     0.137404152538 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.055345664649 au =     0.140674647929 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.056595322287 au =     0.143850960822 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.057786570251 au =     0.146878811133 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.058900689483 au =     0.149710619761 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.056315963764 au =    -0.143140902281 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.056908888632 au =    -0.144647966974 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.057397829819 au =    -0.145890731511 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.057767017771 au =     0.146829113686 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.058060371128 au =     0.147574743546 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.058261619170 au =    -0.148086265047 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.058381194370 au =    -0.148390194890 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.058410930556 au =    -0.148465776736 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.058346056957 au =    -0.148300884496 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.058222775822 au =     0.147987535105 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.058029634134 au =     0.147496617901 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.057771125944 au =    -0.146839555619 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.057451654361 au =     0.146027539852 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.057075428259 au =    -0.145071268482 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.056646713434 au =     0.143981584088 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.056169402508 au =     0.142768380727 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.055658859136 au =    -0.141470708910 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.055095150094 au =    -0.140037903442 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.054493677891 au =     0.138509113592 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.053857681326 au =    -0.136892571564 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.053190238062 au =    -0.135196100002 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.051376392893 au =    -0.130585765441 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.049452793994 au =    -0.125696464723 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>    -0.047428210087 au =    -0.120550485718 Debye
+
+ !MRCI trans          <2.2|DMY|2.4>     0.045334260119 au =     0.115228195772 Debye
+
